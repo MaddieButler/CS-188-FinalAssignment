@@ -1,0 +1,18 @@
+{
+  "name": "RestifyAPI",
+  "version": "1.0.0",
+  "description": "Final Assignment for CS 188, using Restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+  "author": "Maddie Butler",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.5.1",
+    "restify-errors": "^8.0.2",
+    "uuid": "^8.0.0"
+  }
+}
